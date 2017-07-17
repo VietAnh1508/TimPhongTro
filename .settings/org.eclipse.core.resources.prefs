@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/views/_header.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/pheDuyet.jsp=UTF-8
+encoding//src/com/timphong/servlets/ThucHienDangNhap.java=UTF-8
+encoding//src/com/timphong/servlets/ThucHienThem.java=UTF-8
+encoding//src/com/timphong/servlets/TimKiem.java=UTF-8
